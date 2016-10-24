@@ -1,7 +1,7 @@
 # main links links
 main:
   - title: "Resources"
-    url: /resources/
+    url: /resources.html
 
   - title: "About Me"
-    url: /about-me/
+    url: /about-me.html
